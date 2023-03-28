@@ -6,9 +6,9 @@
 * 
 *  Name: Aryan Rakeshbhai Rathod Student ID:129796215 Date: 29-03-2023
 *
-*  Cyclic Web App URL: ________________________________________________________
+*  Cyclic Web App URL: https://awful-erin-turkey.cyclic.app/categories
 *
-*  GitHub Repository URL: ______________________________________________________
+*  GitHub Repository URL: https://github.com/Aryan26101/web322-Assignment-5
 *
 ********************************************************************************/ 
 
